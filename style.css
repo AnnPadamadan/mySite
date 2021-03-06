@@ -1,0 +1,99 @@
+.one h1{
+	font-family: "Comic Sans MS";
+	color: 	#003e06;
+	text-align: center;
+}
+
+.one h2{
+	font-family: "Comic Sans MS";
+	color: 	#003e06;
+	text-align: center;
+}
+
+
+
+.one{
+	
+	background-image: url("green bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+}
+
+.one p{
+	font-family: "Ink Free";
+	color: #228B22;
+	text-align: center;
+}
+
+.one button{
+	color: black;
+	padding:  10;
+	border-width:10;
+	border-color:rgb(11, 122, 141);
+	margin: 10;	
+	font-family: "Comic Sans MS";
+	border-style: double;
+	position: relative;
+	left: 35%;
+	
+}
+
+
+
+
+.noo p{
+	color: rgb(255, 190, 120);
+
+}
+
+.pa p{
+	color: yellow;
+}
+
+.fre p{
+	color: red;
+}
+
+.car p{
+	color: orange;
+}
+
+.ice p{
+	color: brown;
+}
+
+.one img{
+	position: relative;
+	left: 7%
+}
+.blues img{
+	position: relative;
+	left: 35%
+}
+.greens img{
+	position: relative;
+	left: 37%
+}
+
+.buttonsforfav {
+	position: relative;
+	left: 2%;
+}
+
+.coding {
+	position: relative;
+	left: 35%;
+	top: 0px;
+}
+
+.mer {
+	position: relative;
+	top: 25%;
+}
+
+.games img{
+	position: relative;
+	left: 2%;
+}
